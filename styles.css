@@ -1,0 +1,139 @@
+
+h1 {
+  color: hsl(210, 10%, 33%);
+}
+p {
+  color: hsl(201, 11%, 66%);
+  font-size: 1.5rem;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.header {
+  width: 100%;
+  position: absolute;
+left: 0;
+top: 0;
+z-index: -1;
+  /* display: grid; */
+}
+.c {
+  left: 100px;
+ top: 10px;
+ z-index: -1;
+  margin-top: 100px;
+  margin-left: 555px;
+  padding-bottom: 30px;
+}
+.firstheader {
+  text-align: center;
+}
+.btn-outline-success {
+  background-color: hsl(171, 66%, 44%);
+  color: black;
+  margin-left: 38%;
+  margin-right: 15px;
+  margin-bottom: 100px;
+  /* margin: 0 15px 0 500px; */
+
+}
+
+.btn-outline-primary {
+background-color: hsl(233, 100%, 69%);
+color: black;
+margin-bottom: 100px;
+/* for the button to remain side by side only one needs to have a distance between the other*/
+}
+.bigfonts {
+  color: hsl(210, 10%, 33%);
+  text-align: center;
+}
+.secondheader {
+  color: hsl(201, 11%, 66%);
+  font-size: 1.5rem;
+  text-align: center;
+  padding-bottom: 80px;
+}
+.computer {
+  width: 55%;
+  float: left;
+  margin-right: 140px;
+}
+.quick {
+  margin-top: 40px;
+}
+.comtext {
+  text-align: left;
+}
+.access {
+  margin-top: 90px;
+}
+.tab {
+  margin: 50px 0 0 120px;
+}
+.grid {
+  display: grid;
+  column-gap: 25px;
+}
+.firstgrid {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  margin-left: 100px;
+}
+.secondgrid {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  /* margin-left: 150px; */
+}
+.thirdgrid {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  margin-right: 30px;
+}
+.icons {
+  margin-left: 100px;
+}
+  /* margin-left: 10%;
+  margin-top: 30px; */
+
+.title {
+  margin: 40px 20px 10px 70px;
+  font-size: 1.5rem;
+}
+.text {
+  margin: 20px 30px 50px 0;
+  float: left;
+  font-size: 1.5rem;
+}
+.img-grid {
+  margin: 0 0 50px 60px;
+}
+.img-logo {
+  padding-right: 90px;
+}
+.biggerfont {
+  font-size: 3rem;
+  margin-bottom: 15px;
+}
+.smlogo {
+  width: 4%;
+  margin: 50px 0 0 140px;
+}
+footer {
+  background-color: #EEEEEE;
+  padding-bottom: 20px;
+  min-height: 240px;
+}
+.footer {
+  color: black;
+}
+.footergrid {
+  display: grid;
+  grid-template-columns: 3;
+}
+.footerimg {
+  margin: 30px 0 0 980px;
+
+}
+.footericon {
+  padding-right: 20px;
+}
